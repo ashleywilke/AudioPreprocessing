@@ -6,6 +6,7 @@ App is not currently functioning.
 
 Potential issues could be: 
 1. Changed ```AVFormatIDKey``` to ```kAudioFormatLinearPCM``` since we are using .wav files.
-2. Do not currently have exception catching implemented
+2. Do not currently have exception catching implemented, which could definitely help find the problem.
+3. The tutorial is outdated.
 
 If you are able to get the code running, the next step would be attempting different preprocessing steps on the recorded audio. :)
